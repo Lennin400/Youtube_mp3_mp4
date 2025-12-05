@@ -1,0 +1,9 @@
+--- Folder Layout ---
+[core] (...)
+db.sqlite3
+[Descargador] (...)
+[downloads] (...)
+manage.py
+requirements.txt
+[templates] (...)
+[venv] (...)
